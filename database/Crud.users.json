@@ -1,0 +1,38 @@
+[{
+  "_id": {
+    "$oid": "64a644375c460310c868d207"
+  },
+  "name": "Adem Bahri",
+  "email": "adem@gmail.com",
+  "age": 22,
+  "image": "file_1688696706638.jpg"
+},
+{
+  "_id": {
+    "$oid": "64a777824076696a84e4ca0a"
+  },
+  "name": "adem",
+  "email": "Bahri.adem@gmail.com",
+  "age": 26,
+  "image": "file_1689047517893.jpg"
+},
+{
+  "_id": {
+    "$oid": "64a77ae70b7bcd5e67eef635"
+  },
+  "name": "adem",
+  "email": "adem.bahri@enis.tn",
+  "age": 23,
+  "image": "file_1688699930259.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64acbc4eeb8a044f47f47698"
+  },
+  "name": "Adem",
+  "email": "Bahri.adem@gmail.com",
+  "age": 25,
+  "image": "file_1689094709455.jpeg",
+  "__v": 0
+}]

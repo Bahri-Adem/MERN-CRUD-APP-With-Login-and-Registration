@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "64a788df5c460310c868d20e"
+  },
+  "name": "adem",
+  "email": "adem@gmail.com",
+  "password": "Password123"
+},
+{
+  "_id": {
+    "$oid": "64acc49a6801b1f539d78692"
+  },
+  "name": "Adem Bahri",
+  "email": "adem.bahri@enis.tn",
+  "password": "Password123",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64acc4df6801b1f539d78697"
+  },
+  "name": "Adem Bahri1",
+  "email": "ayya@gmail.com",
+  "password": "Jamila25",
+  "__v": 0
+}]
