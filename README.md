@@ -1,10 +1,5 @@
 # MERN-CRUD-APP-With-Login-and-Registration
 
-![MERN](https://github.com/Bahri-Adem/MERN-CRUD-APP-With-Login-and-Registration/assets/103949052/6b398685-041b-4fb8-87b8-fe218184a958)
-
-
-Thank you for providing the dependencies used in your frontend and backend development. Here's an updated version of the ReadMe.md file that includes the frontend and backend dependencies:
-
 
 https://github.com/Bahri-Adem/MERN-CRUD-APP-With-Login-and-Registration/assets/103949052/1ecad4ed-ec4f-4204-b9c3-6d9bf7f5353d
 
@@ -32,7 +27,7 @@ Make sure you have the following installed on your system:
    ```shell
    git clone https://github.com/your-username/repository-name.git
    ```
-
+![MERN](https://github.com/Bahri-Adem/MERN-CRUD-APP-With-Login-and-Registration/assets/103949052/6b398685-041b-4fb8-87b8-fe218184a958)
 2. Change to the server directory:
 
    ```shell
