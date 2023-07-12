@@ -1,6 +1,10 @@
 # MERN-CRUD-APP-With-Login-and-Registration
 Thank you for providing the dependencies used in your frontend and backend development. Here's an updated version of the ReadMe.md file that includes the frontend and backend dependencies:
 
+
+https://github.com/Bahri-Adem/MERN-CRUD-APP-With-Login-and-Registration/assets/103949052/1ecad4ed-ec4f-4204-b9c3-6d9bf7f5353d
+
+
 ```markdown
 # MERN Application
 
