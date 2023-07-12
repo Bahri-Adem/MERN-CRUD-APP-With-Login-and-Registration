@@ -100,7 +100,7 @@ Make sure you have the following installed on your system:
    npm run dev
    ```
 
-2. The frontend will start running on a development server and can be accessed at `http://localhost:3000`.
+2. The frontend will start running on a development server and can be accessed at `http://localhost:5173`.
 
 ### Dependencies
 
