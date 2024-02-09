@@ -4,7 +4,6 @@
 https://github.com/Bahri-Adem/MERN-CRUD-APP-With-Login-and-Registration/assets/103949052/1ecad4ed-ec4f-4204-b9c3-6d9bf7f5353d
 
 
-```markdown
 # MERN Application
 
 This is a MERN (MongoDB, Express, React, Node.js) application that implements a Login, SignUp, logout, and CRUD functionality.
